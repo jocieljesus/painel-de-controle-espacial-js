@@ -105,6 +105,9 @@ button:active {
     color: #f44336;
     animation: piscar 0.5s infinite;
 }
+.resfriamento{
+    color: blue;
+}
 
 @keyframes piscar {
     0% { opacity: 1; }
